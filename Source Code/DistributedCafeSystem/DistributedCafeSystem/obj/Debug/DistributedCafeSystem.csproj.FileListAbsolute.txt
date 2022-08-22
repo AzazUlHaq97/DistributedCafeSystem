@@ -1,0 +1,67 @@
+c:\users\azaz ul haq\documents\visual studio 2013\Projects\DistributedCafeSystem\DistributedCafeSystem\bin\Debug\DistributedCafeSystem.exe.config
+c:\users\azaz ul haq\documents\visual studio 2013\Projects\DistributedCafeSystem\DistributedCafeSystem\bin\Debug\DistributedCafeSystem.exe
+c:\users\azaz ul haq\documents\visual studio 2013\Projects\DistributedCafeSystem\DistributedCafeSystem\bin\Debug\DistributedCafeSystem.pdb
+c:\users\azaz ul haq\documents\visual studio 2013\Projects\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.csprojResolveAssemblyReference.cache
+c:\users\azaz ul haq\documents\visual studio 2013\Projects\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Properties.Resources.resources
+c:\users\azaz ul haq\documents\visual studio 2013\Projects\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.csproj.GenerateResource.Cache
+c:\users\azaz ul haq\documents\visual studio 2013\Projects\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.exe
+c:\users\azaz ul haq\documents\visual studio 2013\Projects\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.pdb
+c:\users\azaz ul haq\documents\visual studio 2013\Projects\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Cafe_Home.resources
+C:\Users\Azaz Ul Haq\documents\visual studio 2013\Projects\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Cafe_Menu.resources
+C:\Users\Azaz Ul Haq\documents\visual studio 2013\Projects\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Cafe_Category.resources
+C:\Users\Azaz Ul Haq\documents\visual studio 2013\Projects\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Cafe_Orders.resources
+C:\Users\Azaz Ul Haq\documents\visual studio 2013\Projects\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Cafe_Users.resources
+C:\Users\Azaz Ul Haq\documents\visual studio 2013\Projects\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Faculty_Menu.resources
+C:\Users\Azaz Ul Haq\Documents\Visual Studio 2013\Projects\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Cafe_IncomingOrder.resources
+C:\Users\Azaz Ul Haq\Documents\Visual Studio 2013\Projects\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Cafe_Reports.resources
+C:\Users\Azaz Ul Haq\Documents\Visual Studio 2013\Projects\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Cafe_Roles.resources
+C:\Users\Azaz Ul Haq\Documents\Visual Studio 2013\Projects\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Faculty_OrderHistory.resources
+C:\Users\Azaz Ul Haq\Documents\Visual Studio 2013\Projects\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Faculty_Profile.resources
+C:\Users\Azaz Ul Haq\documents\visual studio 2013\Projects\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Login.resources
+C:\Users\Azaz Ul Haq\documents\visual studio 2013\Projects\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Main.resources
+D:\Syeda_Ulya_Seerat\Spring_Semesters\SPRING_2019\Visual Programming (Lab)\Projects\DistributedCafeSystem\DistributedCafeSystem\DistributedCafeSystem\bin\Debug\DistributedCafeSystem.exe.config
+D:\Syeda_Ulya_Seerat\Spring_Semesters\SPRING_2019\Visual Programming (Lab)\Projects\DistributedCafeSystem\DistributedCafeSystem\DistributedCafeSystem\bin\Debug\DistributedCafeSystem.exe
+D:\Syeda_Ulya_Seerat\Spring_Semesters\SPRING_2019\Visual Programming (Lab)\Projects\DistributedCafeSystem\DistributedCafeSystem\DistributedCafeSystem\bin\Debug\DistributedCafeSystem.pdb
+D:\Syeda_Ulya_Seerat\Spring_Semesters\SPRING_2019\Visual Programming (Lab)\Projects\DistributedCafeSystem\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Cafe_Category.resources
+D:\Syeda_Ulya_Seerat\Spring_Semesters\SPRING_2019\Visual Programming (Lab)\Projects\DistributedCafeSystem\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Cafe_Home.resources
+D:\Syeda_Ulya_Seerat\Spring_Semesters\SPRING_2019\Visual Programming (Lab)\Projects\DistributedCafeSystem\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Cafe_IncomingOrder.resources
+D:\Syeda_Ulya_Seerat\Spring_Semesters\SPRING_2019\Visual Programming (Lab)\Projects\DistributedCafeSystem\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Cafe_Menu.resources
+D:\Syeda_Ulya_Seerat\Spring_Semesters\SPRING_2019\Visual Programming (Lab)\Projects\DistributedCafeSystem\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Cafe_Orders.resources
+D:\Syeda_Ulya_Seerat\Spring_Semesters\SPRING_2019\Visual Programming (Lab)\Projects\DistributedCafeSystem\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Cafe_Reports.resources
+D:\Syeda_Ulya_Seerat\Spring_Semesters\SPRING_2019\Visual Programming (Lab)\Projects\DistributedCafeSystem\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Cafe_Roles.resources
+D:\Syeda_Ulya_Seerat\Spring_Semesters\SPRING_2019\Visual Programming (Lab)\Projects\DistributedCafeSystem\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Cafe_Users.resources
+D:\Syeda_Ulya_Seerat\Spring_Semesters\SPRING_2019\Visual Programming (Lab)\Projects\DistributedCafeSystem\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Faculty_Menu.resources
+D:\Syeda_Ulya_Seerat\Spring_Semesters\SPRING_2019\Visual Programming (Lab)\Projects\DistributedCafeSystem\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Faculty_OrderHistory.resources
+D:\Syeda_Ulya_Seerat\Spring_Semesters\SPRING_2019\Visual Programming (Lab)\Projects\DistributedCafeSystem\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Faculty_Profile.resources
+D:\Syeda_Ulya_Seerat\Spring_Semesters\SPRING_2019\Visual Programming (Lab)\Projects\DistributedCafeSystem\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Login.resources
+D:\Syeda_Ulya_Seerat\Spring_Semesters\SPRING_2019\Visual Programming (Lab)\Projects\DistributedCafeSystem\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Main.resources
+D:\Syeda_Ulya_Seerat\Spring_Semesters\SPRING_2019\Visual Programming (Lab)\Projects\DistributedCafeSystem\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Properties.Resources.resources
+D:\Syeda_Ulya_Seerat\Spring_Semesters\SPRING_2019\Visual Programming (Lab)\Projects\DistributedCafeSystem\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.csproj.GenerateResource.cache
+D:\Syeda_Ulya_Seerat\Spring_Semesters\SPRING_2019\Visual Programming (Lab)\Projects\DistributedCafeSystem\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.csproj.CoreCompileInputs.cache
+D:\Syeda_Ulya_Seerat\Spring_Semesters\SPRING_2019\Visual Programming (Lab)\Projects\DistributedCafeSystem\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.exe
+D:\Syeda_Ulya_Seerat\Spring_Semesters\SPRING_2019\Visual Programming (Lab)\Projects\DistributedCafeSystem\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.pdb
+D:\Syeda_Ulya_Seerat\Spring_Semesters\SPRING_2019\Visual Programming (Lab)\Projects\DistributedCafeSystem\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.csprojAssemblyReference.cache
+D:\Syeda_Ulya_Seerat\Spring_Semesters\SPRING_2019\Visual Programming (Lab)\Projects\DistributedCafeSystem\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.SignUp.resources
+C:\Users\Azaz\Desktop\DistributedCafeSystem\DistributedCafeSystem\bin\Debug\DistributedCafeSystem.exe.config
+C:\Users\Azaz\Desktop\DistributedCafeSystem\DistributedCafeSystem\bin\Debug\DistributedCafeSystem.exe
+C:\Users\Azaz\Desktop\DistributedCafeSystem\DistributedCafeSystem\bin\Debug\DistributedCafeSystem.pdb
+C:\Users\Azaz\Desktop\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.csprojResolveAssemblyReference.cache
+C:\Users\Azaz\Desktop\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Cafe_Category.resources
+C:\Users\Azaz\Desktop\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Cafe_Home.resources
+C:\Users\Azaz\Desktop\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Cafe_IncomingOrder.resources
+C:\Users\Azaz\Desktop\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Cafe_Menu.resources
+C:\Users\Azaz\Desktop\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Cafe_Orders.resources
+C:\Users\Azaz\Desktop\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Cafe_Reports.resources
+C:\Users\Azaz\Desktop\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Cafe_Roles.resources
+C:\Users\Azaz\Desktop\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Cafe_Users.resources
+C:\Users\Azaz\Desktop\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Faculty_Menu.resources
+C:\Users\Azaz\Desktop\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Faculty_OrderHistory.resources
+C:\Users\Azaz\Desktop\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Faculty_Profile.resources
+C:\Users\Azaz\Desktop\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Login.resources
+C:\Users\Azaz\Desktop\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Main.resources
+C:\Users\Azaz\Desktop\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.Properties.Resources.resources
+C:\Users\Azaz\Desktop\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.SignUp.resources
+C:\Users\Azaz\Desktop\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.csproj.GenerateResource.Cache
+C:\Users\Azaz\Desktop\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.csproj.CoreCompileInputs.cache
+C:\Users\Azaz\Desktop\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.exe
+C:\Users\Azaz\Desktop\DistributedCafeSystem\DistributedCafeSystem\obj\Debug\DistributedCafeSystem.pdb
